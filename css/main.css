@@ -37,3 +37,20 @@ header nav .header-nav{
 .header-nav li:hover{
     cursor: pointer;
 }
+.header-logo{
+    width: 100%;
+    height: 280px;
+    background-color: #5C7AEA;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-logo a{
+    text-decoration: none;
+    font-size: 5.9rem;
+    color: #fff;
+    font-weight: bold;
+}
+.header-logo a:hover{
+    color: #84fab0;
+}
