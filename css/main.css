@@ -38,12 +38,14 @@ header nav .header-nav{
     cursor: pointer;
 }
 .header-logo{
-    width: 100%;
+    width: 80%;
     height: 280px;
     background-color: #5C7AEA;
+    margin: 30px auto;
     display:flex;
     justify-content: center;
     align-items: center;
+    box-shadow: 8px 10px 10px #7F7C82;
 }
 .header-logo a{
     text-decoration: none;
