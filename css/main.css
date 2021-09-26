@@ -40,7 +40,7 @@ header nav .header-nav{
 .header-logo{
     width: 80%;
     height: 280px;
-    background-color: #5C7AEA;
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
     margin: 30px auto;
     display:flex;
     justify-content: center;
